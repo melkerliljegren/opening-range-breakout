@@ -11,5 +11,16 @@ The main goal is to practice **Git/GitHub** and get hands-on experience with **q
 - Take-profit = 10 × risk distance  
 - Close all positions before market close  
 
-## Tools
-- Python, yfinance, backtesting.py, bokeh
+## How to Run
+1. Clone the repo and move into the folder  
+   ```bash
+   git clone https://github.com/melkerliljegren/opening-range-breakout.git
+   cd opening-range-breakout
+   
+2. Install required Python packages
+   ```bash
+   pip install -r requirements.txt
+   
+3. - Open the notebook
+   - Run all cells to reproduce the backtest
+   
