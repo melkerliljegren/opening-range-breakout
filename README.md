@@ -25,8 +25,8 @@ The main goal is to practice **Git/GitHub** and get hands-on experience with **q
    ```bash
    pip install -r requirements.txt
    
-3. - Open the notebook
-   - Run all cells to reproduce the backtest
+3. Open the `.ipynb` notebook file in VS Code and run the cells.
+
   
 ---
    
