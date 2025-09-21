@@ -24,4 +24,9 @@ The main goal is to practice **Git/GitHub** and get hands-on experience with **q
 3. - Open the notebook
    - Run all cells to reproduce the backtest
    
-![Equity and Return](assets/equity_with_return.png)
+## Results
+
+The Opening Range Breakout strategy was backtested on Apple (AAPL) data.  
+The plot below shows both the **equity curve** (blue, left axis) and the **cumulative return** (right axis) over the test period.
+
+![Equity and Cumulative Return](assets/equity_with_return.png)
