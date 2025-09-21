@@ -12,5 +12,15 @@ The main goal is to practice **Git/GitHub** and get hands-on experience with **q
 - Close all positions before market close  
 
 ## How to Run
-```bash
-pip install -r requirements.txt
+1. Clone the repo and move into the folder  
+   ```bash
+   git clone https://github.com/melkerliljegren/opening-range-breakout.git
+   cd opening-range-breakout
+   
+2. Install required Python packages
+   ```bash
+   pip install -r requirements.txt
+   
+3. - Open the notebook
+   - Run all cells to reproduce the backtest
+   
