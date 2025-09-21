@@ -11,5 +11,6 @@ The main goal is to practice **Git/GitHub** and get hands-on experience with **q
 - Take-profit = 10 × risk distance  
 - Close all positions before market close  
 
-## Tools
-- Python, yfinance, backtesting.py, bokeh
+## How to Run
+```bash
+pip install -r requirements.txt
