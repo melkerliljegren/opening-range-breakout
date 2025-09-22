@@ -1,3 +1,3 @@
-yfinance
-datetime
-backtesting
+yfinance==0.2.65
+backtesting==0.6.5
+matplotlib==3.10.6
